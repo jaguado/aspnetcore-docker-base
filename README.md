@@ -15,3 +15,6 @@ To remove stopped containers
   
 To stop and remove ALL CONTAINERS  
 > docker rm  -f $(docker ps -a -q)  
+  
+To delete ALL IMAGES  
+> docker rmi -f $(docker images -q)
