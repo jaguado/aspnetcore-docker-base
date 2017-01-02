@@ -1,7 +1,7 @@
 # aspnetcore-docker-base #
 AspNetCore with Dockerfile ready to build and run a Docker container  
 
-## Quick start example ##
+## Quick start guide ##
 
 **For existing docker instances**  
 To avoid conflicts i recommend to remove all containers and images: 
