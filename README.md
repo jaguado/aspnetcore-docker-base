@@ -6,7 +6,7 @@ AspNetCore with Dockerfile ready to build and run a Docker container
 **For existing docker instances**  
 To avoid conflicts i recommend to remove all containers and images: 
   
-**NOT RECOMMENDED TO PRODUCTION ENVIROMENTS**  
+**NOT RECOMMENDED FOR PRODUCTION ENVIROMENTS**  
   
 > docker rm  -f $(docker ps -a -q)  
 > docker rmi -f $(docker images -q)  
