@@ -20,5 +20,3 @@ Continue with the new docker instances instructions:
 > cd aspnetcore-docker-base  
 > docker build -t aspnetcore:version1.1 .  
 > docker run -d -p 8080:5000 -t aspnetcore:version1.1  
->  
-
