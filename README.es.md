@@ -1,5 +1,5 @@
 # aspnetcore-docker-base #
-AspNetCore con archivo Dockerfile listo para construir y ejecutar un contenedor en Docker  
+AspNetCore con archivo **Dockerfile** listo para construir y ejecutar un contenedor en Docker  
 
 ## Guia de inicio rapido ##
 
