@@ -17,6 +17,6 @@ Continue with the new docker instances instructions:
 **For new docker instances**  
   
 >sudo git clone https://github.com/jaguado/aspnetcore-docker-base.git  
->sudo cd aspnetcore-docker-base  
+>cd aspnetcore-docker-base  
 >sudo docker build -t aspnetcore:version1.1 .  
 >sudo docker run -d -p 8080:5000 -t aspnetcore:version1.1  
